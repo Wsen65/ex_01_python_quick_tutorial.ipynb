@@ -1,2 +1,1 @@
-# GitHub
- 实验1
+# ex_01_python_quick_tutorial.ipynb
